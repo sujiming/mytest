@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+tomcat6Server.estore.IEARProjectName=
+tomcat6Server.estore.altContextRoot=
+tomcat6Server.estore.contextRoot=/estore
+tomcat6Server.estore.deployIsOverProject=false
+tomcat6Server.estore.deploymentPath=F\:\\apache-tomcat-6.0.14\\webapps\\estore
+tomcat6Server.estore.isDeployed=true
+tomcat6Server.estore.isExploded=true
+tomcat6Server.estore.isUptoDate=true
+tomcat6Server.estore.noFileCopy=false
+tomcat6Server.estore.shouldBackup=false
+tomcat6Server.estore.shouldOverwrite=false
+tomcat6Server.estore.type=WebDeployment

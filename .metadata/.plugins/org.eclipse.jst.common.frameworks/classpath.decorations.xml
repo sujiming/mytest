@@ -1,0 +1,7 @@
+<classpath>
+  <container id="ssh_crm!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="D:/workspace/ssh_crm/WebContent/WEB-INF/lib/spring-web-4.2.4.RELEASE.jar">
+      <source-attachment-path>G:/package/spring-framework-4.2.4.RELEASE/libs/spring-web-4.2.4.RELEASE-sources.jar</source-attachment-path>
+    </entry>
+  </container>
+</classpath>

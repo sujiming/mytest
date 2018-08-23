@@ -1,0 +1,8 @@
+ENDORSED_DIRS="F\:\\apache-tomcat-6.0.14/common/endorsed"
+JDK_HOME=C\:\\Program Files (x86)\\Java\\jdk6
+LIBRARY_PATH="C\:\\Program Files (x86)\\Java\\jdk6\\bin;F\:\\apache-tomcat-6.0.14\\bin"
+SERVER_ENABLEMENT=true
+TOMCAT_BASE=F\:\\apache-tomcat-6.0.14
+TOMCAT_HOME=F\:\\apache-tomcat-6.0.14
+TOMCAT_TEMP=F\:\\apache-tomcat-6.0.14\\temp
+eclipse.preferences.version=1

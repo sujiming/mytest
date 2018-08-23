@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.mylyn.tasks.ui.workingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1513235585011_1" label="work" name="work">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ssh_crm" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/estore" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1510621333143_0" label="Window Working Set" name="Aggregate for window 1510621333142"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1517361852360_2" label="Window Working Set" name="Aggregate for window 1517361852360"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1517364888768_3" label="Window Working Set" name="Aggregate for window 1517364888768"/>
+<mruList name="work"/>
+</workingSetManager>
